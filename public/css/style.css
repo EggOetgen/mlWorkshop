@@ -1,0 +1,31 @@
+body{
+    background-color: #DCEDFF ;
+    color: #FF6663 ;
+
+}
+
+.wrapper {
+    /* display: grid;
+    grid-template-columns: 50% 50%; */
+
+  }
+
+.project{
+width: 50%;
+margin: 0%;
+padding: 0%;
+display: block;
+text-align: center;
+}
+
+a:hover{
+    color: #EB9486 ;
+    
+
+}
+
+a:visited{
+    color: #FF6663 ;
+    
+
+}
